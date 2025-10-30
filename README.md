@@ -76,7 +76,8 @@ The models demonstrated strong overall performance across all prediction tasks.
 **Model 1** achieved balanced accuracy despite data complexity, while **Model 2** and **Model 3** showed exceptional precision and recall, reflecting high reliability in identifying at-risk and successful students. 
 These results indicate the system’s robustness and adaptability across diverse educational outcomes.
 > Figure: Model Performance Summary
-<img width="769" height="172" alt="Model Performance Summary" src="https://github.com/user-attachments/assets/5f9539e7-9ac2-45d9-8431-285b648b4ff8" />
+<img width="769" height="172" alt="image" src="https://github.com/user-attachments/assets/0001637f-8787-4989-854f-3c1acd27a330" />
+
 
 ---
 
@@ -103,7 +104,8 @@ sample_output = {
 }
 ```
 > Figure: Demo Contribution Plot
-<img width="628" height="483" alt="Contribution Plot" src="https://github.com/user-attachments/assets/9865ade9-408c-458b-90e6-8ae7a6a96ed7" />
+<img width="628" height="480" alt="image" src="https://github.com/user-attachments/assets/ab31bc97-5b7e-46ae-9845-ef237980a68a" />
+
 
 ---
 
